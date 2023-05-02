@@ -23,7 +23,7 @@ $(function()
 	var songs = [{
 		artist: "Dig Didzay",
 		name: "Nếu Anh Đi (Cover)",
-		url: "https://www.youtube.com/watch?v=GatNL0mmQGc&list=RDGatNL0mmQGc&start_radio=1",
+		url: "Musics/NeuAnhDi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
