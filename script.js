@@ -24,7 +24,7 @@ $(function()
 		artist: "Dig Didzay",
 		name: "Nếu Anh Đi (Cover)",
 		url: "Musics/NeuAnhDi.mp3",
-		picture: "https://drive.google.com/file/d/1m1dQDnuwLKflBpn_qybW4MY6eUaR-hi6/view?usp=sharing.jpg"
+		picture: url("./Background/bg1.jpg") 
 	}];
 	
 	function shuffle(a) {
