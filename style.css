@@ -215,11 +215,11 @@ body
 {
     content: '';
     position: absolute;
-    top: 50%;
+    top: 55%;
     right: 0;
     left: 0;
-    width: 20px;
-    height: 20px;
+    width: 10px;
+    height: 10px;
     margin: -10px auto 0 auto;
     background-color: #d6dee7;
     border-radius: 50%;
