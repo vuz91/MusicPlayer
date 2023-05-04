@@ -21,13 +21,6 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Dig Didzay",
-		name: "Nếu Anh Đi (Cover)",
-		url: "Musics/NeuAnhDi.mp3",
-		picture: "https://raw.githubusercontent.com/vuz91/MusicPlayer/master/Background/bg2.jpg"
-	}];
-	
-	var songs = [{
 		artist: "Obito ft. hnhngan",
 		name: "YOUR SMILE",
 		url: "Musics/YOUR SMILE.mp3",
