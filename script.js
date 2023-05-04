@@ -25,72 +25,52 @@ $(function()
 		name: "YOUR SMILE",
 		url: "Musics/YOUR SMILE.mp3",
 		picture: "https://raw.githubusercontent.com/vuz91/MusicPlayer/master/Background/bg2.jpg"
-	}];
-	
-	var songs = [{
+	},	{
 		artist: "GREY D, HOÀNG DŨNG, ORANGE, SUNI HẠ LINH & TLINH",
 		name: "có hẹn với thanh xuân",
 		url: "Musics/có hẹn với thanh xuân.mp3",
 		picture: "https://raw.githubusercontent.com/vuz91/MusicPlayer/master/Background/bg2.jpg"
-	}];
-	
-	var songs = [{
+	},	{
 		artist: "Chillies ft Suni Hạ Linh & Rhymastic",
 		name: "Cứ Chill Thôi",
 		url: "Musics/Cứ Chill Thôi.mp3",
 		picture: "https://raw.githubusercontent.com/vuz91/MusicPlayer/master/Background/bg2.jpg"
-	}];
-	
-	var songs = [{
+	},	{
 		artist: "Da LAB",
 		name: "Từ Ngày Em Đến",
 		url: "Musics/Từ Ngày Em Đến.mp3",
 		picture: "https://raw.githubusercontent.com/vuz91/MusicPlayer/master/Background/bg2.jpg"
-	}];
-	
-	var songs = [{
+	},	{
 		artist: "Andiez ft. AMEE",
 		name: "Anh Đánh Rơi Người Yêu Này",
 		url: "Musics/Anh Đánh Rơi Người Yêu Này.mp3",
 		picture: "https://raw.githubusercontent.com/vuz91/MusicPlayer/master/Background/bg2.jpg"
-	}];
-	
-	var songs = [{
+	},	{
 		artist: "AMEE x VIRUSS",
 		name: "TRỜI GIẤU TRỜI MANG ĐI",
 		url: "Musics/TRỜI GIẤU TRỜI MANG ĐI.mp3",
 		picture: "https://raw.githubusercontent.com/vuz91/MusicPlayer/master/Background/bg2.jpg"
-	}];
-	
-	var songs = [{
+	},	{
 		artist: "ĐỨC PHÚC x VIRUSS",
 		name: "YÊU ĐƯỢC KHÔNG",
 		url: "Musics/YÊU ĐƯỢC KHÔNG.mp3",
 		picture: "https://raw.githubusercontent.com/vuz91/MusicPlayer/master/Background/bg2.jpg"
-	}];
-	
-	var songs = [{
+	},	{
 		artist: "ĐỨC PHÚC",
 		name: "NGÀY ĐẦU TIÊN",
 		url: "Musics/NGÀY ĐẦU TIÊN.mp3",
 		picture: "https://raw.githubusercontent.com/vuz91/MusicPlayer/master/Background/bg2.jpg"
-	}];
-	
-	var songs = [{
+	},	{
 		artist: "ĐỨC PHÚC",
 		name: "Ánh Nắng Của Anh",
 		url: "Musics/Ánh Nắng Của Anh.mp3",
 		picture: "https://raw.githubusercontent.com/vuz91/MusicPlayer/master/Background/bg2.jpg"
-	}];
-	
-	var songs = [{
+	},	{
 		artist: "ĐỨC PHÚC x 911 x KHẮC HƯNG",
 		name: "EM ĐỒNG Ý (I DO)",
 		url: "Musics/ .mp3",
 		picture: "https://raw.githubusercontent.com/vuz91/MusicPlayer/master/Background/bg2.jpg"
-	}];
-	
-	var songs = [{
+	},	{
 		artist: "Miu Lê",
 		name: "Mình Yêu Từ Bao Giờ",
 		url: "Musics/Mình Yêu Từ Bao Giờ.mp3",
