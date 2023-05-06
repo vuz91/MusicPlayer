@@ -68,7 +68,7 @@ $(function()
 	},	{
 		artist: "ĐỨC PHÚC x 911 x KHẮC HƯNG",
 		name: "EM ĐỒNG Ý (I DO)",
-		url: "Musics/EM ĐỒNG Ý (I DO).mp3",
+		url: "Musics/EM ĐỒNG Ý I DO.mp3",
 		picture: "https://raw.githubusercontent.com/vuz91/MusicPlayer/master/Background/bg2.jpg"
 	},	{
 		artist: "Miu Lê",
